@@ -1117,82 +1117,6 @@ ${gaya2} ${prefix}fanart
 ${gaya2} ${prefix}nino`
 DogeXeonOP.sendMessage(from, { contentText: `${menu}`, footerText: `*_${tanggal}_*`, buttons: [{ buttonId: `${prefix}command`, buttonText: { displayText: 'BACK ⬅️' }, type: 1 },{ buttonId: `${prefix}owner`, buttonText: { displayText: 'OWNER 👤' }, type: 1 } ], headerType: 'LOCATION', locationMessage: { degreesLatitude: '', degreesLongitude: '', jpegThumbnail: fakeimage, contextInfo: {mentionedJid: [sender]}}}, 'buttonsMessage')
 break
-case 'nsfwmenu':
-
-menu =
-`*「 NSFW/HENTAI MENU 」*
-
-${gaya2} ${prefix}hentaisearch _code_
-${gaya2} ${prefix}animefeets
-${gaya2} ${prefix}chiisaihentai
-${gaya2} ${prefix}yaoi
-${gaya2} ${prefix}bj
-${gaya2} ${prefix}feet
-${gaya2} ${prefix}lewd
-${gaya2} ${prefix}feed
-${gaya2} ${prefix}trap
-${gaya2} ${prefix}eron
-${gaya2} ${prefix}solo
-${gaya2} ${prefix}gasm
-${gaya2} ${prefix}poke
-${gaya2} ${prefix}anal
-${gaya2} ${prefix}holo
-${gaya2} ${prefix}tits
-${gaya2} ${prefix}kuni
-${gaya2} ${prefix}kiss
-${gaya2} ${prefix}erok
-${gaya2} ${prefix}smug
-${gaya2} ${prefix}baka
-${gaya2} ${prefix}solog
-${gaya2} ${prefix}feetg
-${gaya2} ${prefix}lewdk
-${gaya2} ${prefix}cuddle
-${gaya2} ${prefix}cum_jpg
-${gaya2} ${prefix}erofeet
-${gaya2} ${prefix}holoero
-${gaya2} ${prefix}classic
-${gaya2} ${prefix}erokemo
-${gaya2} ${prefix}fox_girl
-${gaya2} ${prefix}futanari
-${gaya2} ${prefix}lewdkemo
-${gaya2} ${prefix}wallpaper
-${gaya2} ${prefix}pussy_jpg
-${gaya2} ${prefix}kemonomimi
-${gaya2} ${prefix}nsfw_avatar
-${gaya2} ${prefix}wallpaper
-${gaya2} ${prefix}eroyuri
-${gaya2} ${prefix}ecchi
-${gaya2} ${prefix}hololewd
-${gaya2} ${prefix}sideoppai
-${gaya2} ${prefix}animefeets
-${gaya2} ${prefix}animebooty
-${gaya2} ${prefix}animearmpits
-${gaya2} ${prefix}hentaifemdom
-${gaya2} ${prefix}lewdanimegirls
-${gaya2} ${prefix}biganimetiddies
-${gaya2} ${prefix}ass
-${gaya2} ${prefix}ahegao
-${gaya2} ${prefix}bdsm
-${gaya2} ${prefix}blowjob
-${gaya2} ${prefix}cuckold
-${gaya2} ${prefix}cum
-${gaya2} ${prefix}ero
-${gaya2} ${prefix}femdom
-${gaya2} ${prefix}foot
-${gaya2} ${prefix}gangbang
-${gaya2} ${prefix}glasses
-${gaya2} ${prefix}hentai
-${gaya2} ${prefix}jahy
-${gaya2} ${prefix}masturbation
-${gaya2} ${prefix}neko
-${gaya2} ${prefix}orgy
-${gaya2} ${prefix}panties
-${gaya2} ${prefix}pussy
-${gaya2} ${prefix}thighs
-${gaya2} ${prefix}yuri
-${gaya2} ${prefix}bokep`
-DogeXeonOP.sendMessage(from, { contentText: `${menu}`, footerText: `*_${tanggal}_*`, buttons: [{ buttonId: `${prefix}command`, buttonText: { displayText: 'BACK ⬅️' }, type: 1 },{ buttonId: `${prefix}owner`, buttonText: { displayText: 'OWNER 👤' }, type: 1 } ], headerType: 'LOCATION', locationMessage: { degreesLatitude: '', degreesLongitude: '', jpegThumbnail: fakeimage, contextInfo: {mentionedJid: [sender]}}}, 'buttonsMessage')
-break
 case 'stickermenu':
 
 menu =
@@ -1227,26 +1151,26 @@ ${gaya2} ${prefix}foolish
 ${gaya2} ${prefix}smart
 ${gaya2} ${prefix}handsome
 ${gaya2} ${prefix}beautiful
-${gaya2} ${prefix}gay
-${gaya2} ${prefix}lesbi
+
+
 ${gaya2} ${prefix}bastard
 ${gaya2} ${prefix}stubble
 ${gaya2} ${prefix}dog
-${gaya2} ${prefix}fuck
+
 ${gaya2} ${prefix}ugly
 ${gaya2} ${prefix}ape
 ${gaya2} ${prefix}cute
 ${gaya2} ${prefix}noob
 ${gaya2} ${prefix}kind
 ${gaya2} ${prefix}great
-${gaya2} ${prefix}horny
+
 ${gaya2} ${prefix}wibu
-${gaya2} ${prefix}asshole
+
 ${gaya2} ${prefix}couple
 ${gaya2} ${prefix}handsomecheck [tag]
 ${gaya2} ${prefix}beautycheck [tag]
-${gaya2} ${prefix}gaycheck [tag]
-${gaya2} ${prefix}lesbiancheck [tag]
+
+
 ${gaya2} ${prefix}charactercheck [tag]`
 DogeXeonOP.sendMessage(from, { contentText: `${menu}`, footerText: `*_${tanggal}_*`, buttons: [{ buttonId: `${prefix}command`, buttonText: { displayText: 'BACK ⬅️' }, type: 1 },{ buttonId: `${prefix}owner`, buttonText: { displayText: 'OWNER 👤' }, type: 1 } ], headerType: 'LOCATION', locationMessage: { degreesLatitude: '', degreesLongitude: '', jpegThumbnail: fakeimage, contextInfo: {mentionedJid: [sender]}}}, 'buttonsMessage')
 break
@@ -1408,8 +1332,7 @@ menu =
 
 ${gaya2} ${prefix}runtime
 ${gaya2} ${prefix}speed
-${gaya2} ${prefix}rentbot
-${gaya2} ${prefix}payment
+
 ${gaya2} ${prefix}owner
 ${gaya2} ${prefix}developer
 ${gaya2} ${prefix}script
@@ -1808,23 +1731,7 @@ break
 just give credit / add in tqtq
 --> Xeon*/
 
-case 'cecan':
-case 'cogan':
-case 'cecan2':
-case 'cogan2':
-case 'jeni':
-case 'jiso':
-case 'justina':
-case 'lisa':
-case 'rose':
-case 'ryujin':
-case 'indonesia':
-case 'vietnam':
-case 'thailand':
-case 'korea':
-case 'china':
-case 'japan':
-case 'malaysia':
+
 
 reply(mess.wait)
 buffer = await getBuffer(`https://apidhani.herokuapp.com/api/cecan/${command}?apikey=${dhakey}`)
@@ -2208,26 +2115,6 @@ if (!isNsfw) return reply(mess.only.nsfw)
     ini_txt += `Uploaded : ${get_info.uploaded}\n`
     reply(ini_txt)}
     break
-case 'ass':
-case 'ahegao':
-case 'bdsm':
-case 'blowjob':
-case 'cuckold':
-case 'cum':
-case 'ero':
-case 'femdom':
-case 'foot':
-case 'gangbang':
-case 'glasses':
-case 'hentai':
-case 'jahy':
-case 'masturbation':
-case 'neko':
-case 'orgy':
-case 'panties':
-case 'pussy':
-case 'thighs':
-case 'yuri':
 
 if (!isGroup) return reply('Bullshit! there is a child po*n\nIts better to just be in the group so that everyone will be sinned 😂')
 if (!isNsfw) return reply(mess.only.nsfw)
